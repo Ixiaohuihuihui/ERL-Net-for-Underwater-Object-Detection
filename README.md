@@ -51,7 +51,9 @@ Please follow the steps of [MMdetection](https://github.com/open-mmlab/mmdetecti
 
 ## Demo
 ### UTDAC2020 dataset
-![image](https://user-images.githubusercontent.com/26215859/122724843-ed259780-d2a6-11eb-9cbd-3b4352e192de.png)
+![UTDAC_1](https://user-images.githubusercontent.com/26215859/122725741-dfbcdd00-d2a7-11eb-9bab-5a862dee08d9.png)
+
 
 ### Brackish dataset
-![image](https://user-images.githubusercontent.com/26215859/122724957-12b2a100-d2a7-11eb-9420-102059f55cb2.png)
+![brackish_1](https://user-images.githubusercontent.com/26215859/122725755-e4819100-d2a7-11eb-95db-9247b3b8bdbd.png)
+
