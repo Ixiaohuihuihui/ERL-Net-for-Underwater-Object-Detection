@@ -34,9 +34,17 @@ python tools/train.py configs/erl/erl_retina_utdac
 ```
 
 ### Train on Brackish dataset
-(1)
+(1) Cascade R-CNN
 ```python
 python tools/train.py configs/erl/erl_cascade_brackish.py
+```
+(2) Faster R-CNN
+```python
+python tools/train.py configs/erl/erl_faster_rcnn_brackish.py
+```
+(3) RetinaNet
+```python
+python tools/train.py configs/erl/erl_retina_brackish.py
 ```
 
 
