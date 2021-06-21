@@ -28,7 +28,7 @@ python tools/train.py configs/erl/erl_cascade_utdac.py
 ```python
 python tools/train.py configs/erl/erl_faster_rcnn_utdac.py
 ```
-(3) Retina
+(3) RetinaNet
 ```python
 python tools/train.py configs/erl/erl_retina_utdac
 ```
@@ -46,5 +46,12 @@ python tools/train.py configs/erl/erl_faster_rcnn_brackish.py
 ```python
 python tools/train.py configs/erl/erl_retina_brackish.py
 ```
+## Test and Evaluation
+Please follow the steps of [MMdetection](https://github.com/open-mmlab/mmdetection).
 
+## Demo
+### UTDAC2020 dataset
+![image](https://user-images.githubusercontent.com/26215859/122724843-ed259780-d2a6-11eb-9cbd-3b4352e192de.png)
 
+### Brackish dataset
+![image](https://user-images.githubusercontent.com/26215859/122724957-12b2a100-d2a7-11eb-9420-102059f55cb2.png)
